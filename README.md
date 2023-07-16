@@ -1,6 +1,6 @@
-#The Minecraft Iceberg V3, Finally - 314+ Entries! (EXPLANATION DOC LINKED)
+# The Minecraft Iceberg V3, Finally - 314+ Entries! (EXPLANATION DOC LINKED)
 
-@ZEROTH LAYERS:
+@ ZEROTH LAYERS:
 
 Nether Portals - A rectangular portal made out of obsidian and lit with a fire source (often flint and steel), used to enter the Nether dimension. At its minimum size, it requires a vertical ring of obsidian 5 blocks high and 4 blocks wide, although at its maximum it can be 23 blocks by 23 blocks. Their existence is hinted at via ruined portals found in both the overworld and nether.
 Usually, a created portal will generate an entirely new portal on the other side. However, if an existing portal already exists nearby in the other dimension, a created portal will link to that one instead. This means several nether portals can link to the same portal.
