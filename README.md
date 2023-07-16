@@ -1,6 +1,6 @@
 # The Minecraft Iceberg V3, Finally - 314+ Entries! (EXPLANATION DOC LINKED)
 
-@ ZEROTH LAYERS:
+# ZEROTH LAYERS:
 
 Nether Portals - A rectangular portal made out of obsidian and lit with a fire source (often flint and steel), used to enter the Nether dimension. At its minimum size, it requires a vertical ring of obsidian 5 blocks high and 4 blocks wide, although at its maximum it can be 23 blocks by 23 blocks. Their existence is hinted at via ruined portals found in both the overworld and nether.
 Usually, a created portal will generate an entirely new portal on the other side. However, if an existing portal already exists nearby in the other dimension, a created portal will link to that one instead. This means several nether portals can link to the same portal.
@@ -46,7 +46,7 @@ Chiseled Sandstone Symbols - Regular chiseled sandstone blocks have a creeper fa
 Additionally, two unused decorative sandstone textures were added in Java 1.2.1. One depicts four symbols, including a creeper face and an eye, whereas the other is some striped diamond shape with two eye-like dots in the middle of it.
 
 
-FIRST LAYER:
+# FIRST LAYER:
 
 Herobrine - The classic creepypasta of an entity that’s claimed to be Notch’s dead brother. The first image of him was posted on 4chan’s /v/ board, while the first video hoax was created by Brocraft Streamer “Copeland”, which has since been taken down. Herobrine has since been accepted by both the community as well as Mojang, appearing in promotional art, a book in the 10th Anniversary World, and even in patch notes, where he’s jokingly* removed in every update. (Also See: Wake Up, Herobrine Shrine, Herobrine is Notch’s Dead Brother)
 
@@ -76,7 +76,7 @@ Pink Sheep - Sheeps can spawn in 6 different wool colors: White, black, gray, li
 Nametag Easter Eggs - Naming a mob Dinnerbone (or Grumm) turns them upside-down. Also, jeb_ gives sheep rainbow wool, and Toast gives rabbits the appearance of xyzen420's girlfriend's missing rabbit.
 
 
-SECOND LAYER:
+# SECOND LAYER:
 
 2021 Mob Vote - The third community mob vote Mojang hosted, during Minecraft Live on October 16th, 2021. Like the 2020 Mob Vote, mobs that lost this vote could still be implemented, although the chance is fairly slim.
 The 3 mobs were:
@@ -247,7 +247,7 @@ Netherrack is Made of Flesh - A theory that netherrack is made of pure flesh. Pr
 End Bedrock Infiniburn - Unlike netherrack, which can burn infinitely in all 3 dimensions, bedrock only has the ability to burn infinitely in the End. This was most likely done to stop the fire generated from end crystals atop the obsidian towers from dying out once the crystal was destroyed.
 
 
-THIRD LAYER:
+# THIRD LAYER:
 
 Locked Chest - A feature added for April Fool's Day 2011 that required a "Steve Co. Supply Crate Key" to open, as a reference to TF2's Mann Co. Supply Crates. Buying these keys required going to a fake "Minecraft store", a GUI which had additional easter eggs including a Velociraptor at checkout as well as a seizure-inducing window if you bought more than $10,000 worth of goods.
 
@@ -359,7 +359,7 @@ MD3 Models - A model format created by Id Software. Beast Boy, Steve, Black Stev
 Canceled Minecon 2014 - While it was announced on March 30 2014 that Minecon would be held in Europe, on August 21 Vu Bui (Chief Operating Officer of Mojang) stated that Minecon 2014 will be canceled, and will instead take place in spring of 2015. The reasons for the cancellation are unknown.
 
 
-FOURTH LAYER:
+# FOURTH LAYER:
 
 Missingno Splash - If you delete every splash text in the splashes.txt file, the Minecraft splash reverts to "missingno". This was removed in modern versions, however, and replaced with a Zero-Width No Break Space (represented in Minecraft's font as a box with "ZWNBSP" inside of it).
 
@@ -464,7 +464,7 @@ Wake Up (him.html) - During a stream with Brocraft streamer Patimuss where he sa
 (Also See: Herobrine)
 
 
-FIFTH LAYER:
+# FIFTH LAYER:
 
 Gray Tabby Cat - In the Bedrock Edition of the game, the texture file for a gray tabby cat exists. This texture is completely unused, and can't be spawned in-game.
 
@@ -583,7 +583,7 @@ Dungeons and Levers - The former name for Adventure mode, announced by Notch whi
 Steve is a God - How is Steve able to carry so much in his inventory without losing speed? How can he jump a whole meter effortlessly, and run almost twice as fast as the average person like it was nothing? Why is he the only one of his kind in this World? How can he go from absolutely nothing to slaying a cosmic being in the vacuum of space in a matter of just days? How can he punch wood???
 
 
-SIXTH LAYER:
+# SIXTH LAYER:
 
 "Rescue a Ghast from the Nether" - The wording from the description of the Uneasy Alliance advancement makes it sound like Ghasts are involuntarily trapped in the Nether, or that they do not belong there.
 (Also See: Ghasts are Soul Amalgamations)
@@ -665,7 +665,7 @@ OldRoot - An ARG that started on the Minecraft subreddit in 2014 by u/OldRoot, t
 On RetroGamingNow's video covering the OldRoot mystery, Alex Bale revealed himself to be the original creator of the OldRoot ARG.
 
 
-SEVENTH LAYER:
+# SEVENTH LAYER:
 
 Old Dragon Respawn Method - In snapshot 15w31a of 1.9, before an official way to resummon the Ender Dragon was added (by placing four ender crystals along the portal well), one could bring the dragon back by making a creeper face out of clay along the north-south axis.
 
@@ -743,7 +743,7 @@ Afrikaans Singleplayer Slur - Sometime around January 27th, 2012, upon switching
 Pre-Classic Censored Videos - Notch created a tech test for Cave Game (See: Cave Game) on May 13, 2009, though it's blocked in most countries for unknown reasons. The rest of the videos on his channel (Nizzotch) seem to be censored too. Here's an archive of Notch's old videos.
 
 
-EIGHTH LAYER:
+# EIGHTH LAYER:
 
 Ghasts Are Soul Amalgamations - With Ghasts being ghost-like mobs (assuming you don't take the Ghasts Are Mechanical theory as true), one could wonder which mob once existed that could be big enough to become Ghasts upon death yet no longer exist in a living form today. One theory proposes that ghasts aren't actually based on one singular mob, but are simply the runoff of souls produced once soul sand blocks become too saturated. This explains why Ghasts have a higher spawn rate in Soul Sand Valleys, where soul sand and soul soil are far more prominent. It also somewhat explains the depressed nature of Ghasts as well as clarifying the description of the "Uneasy Alliance" advancement (See: "Rescue a Ghast From The Nether"), since they do not actually belong in the Nether in the first place, many times containing the ghosts of fallen adventurers.
 
